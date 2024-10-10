@@ -1,0 +1,14 @@
+C:\Users\benja\Programming\C#\Craftbox\bin\Debug\net8.0\Craftbox.exe
+C:\Users\benja\Programming\C#\Craftbox\bin\Debug\net8.0\Craftbox.deps.json
+C:\Users\benja\Programming\C#\Craftbox\bin\Debug\net8.0\Craftbox.runtimeconfig.json
+C:\Users\benja\Programming\C#\Craftbox\bin\Debug\net8.0\Craftbox.dll
+C:\Users\benja\Programming\C#\Craftbox\bin\Debug\net8.0\Craftbox.pdb
+C:\Users\benja\Programming\C#\Craftbox\obj\Debug\net8.0\Craftbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Programming\C#\Craftbox\obj\Debug\net8.0\Craftbox.AssemblyInfoInputs.cache
+C:\Users\benja\Programming\C#\Craftbox\obj\Debug\net8.0\Craftbox.AssemblyInfo.cs
+C:\Users\benja\Programming\C#\Craftbox\obj\Debug\net8.0\Craftbox.csproj.CoreCompileInputs.cache
+C:\Users\benja\Programming\C#\Craftbox\obj\Debug\net8.0\Craftbox.dll
+C:\Users\benja\Programming\C#\Craftbox\obj\Debug\net8.0\refint\Craftbox.dll
+C:\Users\benja\Programming\C#\Craftbox\obj\Debug\net8.0\Craftbox.pdb
+C:\Users\benja\Programming\C#\Craftbox\obj\Debug\net8.0\Craftbox.genruntimeconfig.cache
+C:\Users\benja\Programming\C#\Craftbox\obj\Debug\net8.0\ref\Craftbox.dll
