@@ -19,5 +19,5 @@ This should be directory path to the folder that you want to contain your output
 
 
 ## Usage
-Scratchpad is the location to write any scripts that you want to run when Craftbox is launched.
+Scratchpad.cs is the location to write any scripts that you want to run when Craftbox is launched.
 
